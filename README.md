@@ -1,2 +1,2 @@
 # pclwriter
-Generating pcl file Patran
+Generating pcl file for Patran
